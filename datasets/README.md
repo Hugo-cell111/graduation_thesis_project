@@ -26,7 +26,7 @@
   year={2019},
 }
 ```
-- CrackForest&CFD
+- CrackForest&CFD数据集
 ```
 @article{cfd,
   title={Automatic Road Crack Detection Using Random Structured Forests},
@@ -35,7 +35,7 @@
   year={2016}
 }
 ```
-- Crack500
+- Crack500数据集
 ```
 @article{fphbn,
   title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
