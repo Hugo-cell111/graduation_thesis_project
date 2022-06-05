@@ -1,2 +1,6 @@
-# graduation_thesis_project
-The introduction of my graduation thesis. Codes and dataset are also given. Any comments and forks are welcomed.
+# 毕业项目：基于多流结构的轻量化路面裂纹语义分割模型
+
+## 文件说明
+
+## 
+
